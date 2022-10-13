@@ -1,0 +1,60 @@
+.body{
+    background-color: rgb(236, 233, 233);
+}
+.section-top{
+  
+    height: 500px;
+    border-bottom: 2px solid rgb(223, 219, 219);
+    background-color: rgb(253, 253, 253);
+    width: 100%;
+    
+  }
+  .section-top-background{
+    background-color: rgb(236, 233, 233);
+    width: 75%;
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
+    height: 330px;
+  }
+  
+  .section-info{
+    width: 70%;
+    border-bottom: 1px solid rgb(180, 176, 176);
+  }
+  
+  .image{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: -80px;
+    margin-right: 20px;
+  }
+
+  .ul-info{
+    list-style: none;
+    
+  }
+  .links{
+    width: 75%;
+    margin: 10px;
+   
+  }
+
+  .li{
+    margin-right: 10px;
+  }
+
+  .doit{
+    margin-right: 40px;
+    background-color: rgb(180, 176, 176);
+    border-radius: 30%;
+    width: 45px;
+    text-align: center;
+  }
+
+  .btn{
+   
+   font-weight: 100px;
+    cursor: pointer;
+
+  }
