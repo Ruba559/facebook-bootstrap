@@ -1,6 +1,60 @@
 .body{
     background-color: rgb(236, 233, 233);
 }
+
+.nav{
+  /* overflow: hidden; */
+  background-color: rgb(255, 255, 255);
+  /* padding: 10px; */
+  height: 65px;
+  border-bottom: 2px solid rgb(223, 219, 219);
+  width: 100%;
+}
+
+
+.navbar {
+   
+   list-style: none;
+ 
+  }
+
+  
+/* .element-style {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  align-self: center;
+  
+} */
+
+.li-center{
+  margin-right: 70px;
+}
+
+.li-right {
+  margin-right: 10px;
+}
+
+  .search-div{
+    background-color: gainsboro;
+    border-radius: 10%;
+    /* padding: 5px; */
+  }
+
+  input{
+    /* padding: 5px; */
+    border: none;
+    background-color: gainsboro;
+    border-radius: 10%;
+  }
+
+.img-facebook{
+  width: 30px;
+  /* margin-right: 2rem; */
+}
+
+
 .section-top{
   
     height: 500px;
